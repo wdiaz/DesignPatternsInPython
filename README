@@ -9,3 +9,17 @@ ISBN: 0596007124
 
 Tutorials Point
 https://www.tutorialspoint.com/design_pattern
+
+
+Tools:
+
+MyPy
+to ensure appropriate usage of types
+
+Example:
+mypy Ducks.py
+
+
+PyTest:
+Unit test
+execution: pytest *in* target folder

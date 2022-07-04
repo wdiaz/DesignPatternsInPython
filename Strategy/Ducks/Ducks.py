@@ -81,8 +81,7 @@ duck.executeFly()
 duck.whoiam()
 
 
-duck = RubberDuck(Squeak(), FlyNoWay())
-duck.executeQuack()
-duck.executeFly()
-duck.whoiam()
+rubberDuck = RubberDuck(Squeak(), FlyNoWay())
+rubberDuck.executeQuack()
+rubberDuck.whoiam()
 
